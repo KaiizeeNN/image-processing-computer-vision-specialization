@@ -3,7 +3,7 @@
 **MathWorks Coursera Specializations**
 
 [**Image Processing for Engineering and Science Specialization**](https://www.coursera.org/specializations/image-processing)
-- [ ] Introduction to Image Processing (11 hours)
+- [x] Introduction to Image Processing (11 hours)
 - [ ] Image Segmentation, Filtering and Region Analysis (10 Hours)
 - [ ] Automating Image Processing (13 Hours)
 
